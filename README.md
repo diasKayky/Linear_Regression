@@ -24,6 +24,3 @@
     </td>
   </tr>
 </table>
-
-
-[⬆ Voltar ao topo](Linear_Regression)<br>
