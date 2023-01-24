@@ -1,7 +1,6 @@
 # Regressão Linear
 
-
-> Projeto de regressão linear usando a solução de `equações normais de least squares`; análise exploratória e descritiva; teste de valor-p; e comparação entre modelos simples e múltiplos.
+> Um corretor de imóveis precisa prever o valor dos preços dos imóveis, para tal, desenvolve um modelo de regressão linear com base em diversas features explicativas e analisa sua eficácia e validade.
 
 1. Desenvolvimento da package `LinearRegression__`: funções `fit_model()`, `predict()`, etc.
 2. Análise de dados exploratória e descritiva: uso de correlação, plotagem de histogramas, etc.
