@@ -1,6 +1,6 @@
 # Regressão Linear
 
-> Um corretor de imóveis precisa prever o valor dos preços dos imóveis, para tal, desenvolve um modelo de regressão linear com base em diversas features explicativas e analisa sua eficácia e validade.
+> Um corretor de imóveis precisa prever o valor dos preços dos imóveis, para tal, desenvolve um modelo de regressão linear com base em diversas features explicativas, analisa sua eficácia e validade e faz deploy através de uma API construída em Flask.
 
 1. Desenvolvimento da package `LinearRegression__`: funções `fit_model()`, `predict()`, etc.
 2. Análise de dados exploratória e descritiva: uso de correlação, plotagem de histogramas, etc.
