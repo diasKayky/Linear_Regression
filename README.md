@@ -1,4 +1,4 @@
-# Regressão Linear
+# Regressão Linear de Preços de Imóveis
 
 > Um corretor de imóveis precisa prever o valor dos preços dos imóveis, para tal, desenvolve um modelo de regressão linear com base em diversas features explicativas, analisa sua eficácia e validade e faz deploy através de uma API construída em Flask.
 
