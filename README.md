@@ -8,7 +8,7 @@
 4. Modelo preditivo: uso de regressão linear múltipla.
 5. Modelo preditivo: uso de regressão linear simples.
 6. Comparação entre modelos e definição do mais adequado.
-7. Deploy do modelo em forma de API usando Flask
+7. Deploy do modelo usando API construída em Flask
 
 ##  💻 Desenvolvedor
 
