@@ -4,7 +4,7 @@ import pickle
 from sklearn.model_selection import train_test_split
 
 #Limpa o dataset
-df = pd.read_csv("dataset.csv")
+df = pd.read_csv("../data/dataset.csv")
 del df["sqft_living15"]
 del df["sqft_above"]
 del df["sqft_basement"]
