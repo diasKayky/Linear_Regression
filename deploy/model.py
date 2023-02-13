@@ -1,4 +1,4 @@
-import LinearRegression__ as lr
+import packages.LinearRegression__ as lr
 import pandas as pd
 import pickle
 from sklearn.model_selection import train_test_split
